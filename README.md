@@ -1,6 +1,6 @@
 # GGNTm
 
-GGNTm is an empirical model for predicting weighted mean temperature (Tm), am important parameter for converting zenith wet delay (ZWD) to precipitable water vapor (PWV) in GNSS meteorology.
+GGNTm is an empirical model for predicting weighted mean temperature (Tm), an important parameter for converting zenith wet delay (ZWD) to precipitable water vapor (PWV) in GNSS meteorology.
 
 The paper related to this model：https://amt.copernicus.org/articles/14/2529/2021/
 
